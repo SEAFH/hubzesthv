@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SEAFH/hubvZesthOno/40c7a7aa0c76193a918b7d539924ca011b2703e3/Zesth.lua"))()
